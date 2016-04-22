@@ -1,0 +1,28 @@
+
+Good Code:
+
+      WORKING (feature complete!)
+      understandable (by target audience)
+      DRY
+      Terse
+      small methods
+      naming conventions
+      idiomatic
+      interoperable
+      Efficient
+        - fast!
+        - memory
+        - cpu
+      Up-to-date - techniques
+      Maintainable
+      re-useable
+      Organised file structures
+      unambiguous
+      secure
+      robust / strong / tough / resilient
+      tested / testable
+
+
+
+
+
